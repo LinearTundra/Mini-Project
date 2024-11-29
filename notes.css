@@ -1,0 +1,8 @@
+.danger {
+    background-color: #ffdddd;
+    border-left: 6px solid #f44336;
+  }
+.dangerr {
+    background-color: rgb(20, 230, 48);
+    border-left: 6px solid hsl(90, 90%, 49%);
+  }
