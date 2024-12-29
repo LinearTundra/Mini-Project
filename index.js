@@ -1,8 +1,7 @@
+const userCardTemplate = document.querySelector("[data-user-template]")
 
 const SearchText = document.getElementById("Search");
 document.getElementsId("ResponseText").hidden=true;
-
-
 
 function search() {
     const SearchText = document.getElementById("Search");

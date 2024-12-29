@@ -236,10 +236,10 @@ input:-webkit-autofill:active {
 }
 
 .Title{
-    font-family:Verdana, Geneva, Tahoma, sans-serif,Impact, Haettenschweiler;
-    text-align: center;
-    font-size: 100px;
-    color: #3ea67c;
+  font-family:Verdana, Geneva, Tahoma, sans-serif,Impact, Haettenschweiler;
+  text-align: center;
+  font-size: 100px;
+  color: #3ea67c;
 }
 
 .note{
